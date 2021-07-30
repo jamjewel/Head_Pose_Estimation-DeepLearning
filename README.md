@@ -8,8 +8,8 @@ Now upload the tilt.ipynb and pan.ipynb into the Jupiter notebook. Open the file
 
 Now go to kernel drop down menu option and click on Restart & Run All. 
 
-![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/6d45ac7603e4de271a3458f3c92a2f83f5b122df/Page1.png)
-![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/6d45ac7603e4de271a3458f3c92a2f83f5b122df/Page2.png)
-![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/6d45ac7603e4de271a3458f3c92a2f83f5b122df/Page3.png)
-![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/6d45ac7603e4de271a3458f3c92a2f83f5b122df/Page4.png)
-![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/6d45ac7603e4de271a3458f3c92a2f83f5b122df/Page5.png)
+![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/2c470c6b1df68bd07a91a945f024b70c6800bb54/PAGE1.png)
+![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/2c470c6b1df68bd07a91a945f024b70c6800bb54/PAGE2.png)
+![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/2c470c6b1df68bd07a91a945f024b70c6800bb54/PAGE3.png)
+![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/2c470c6b1df68bd07a91a945f024b70c6800bb54/PAGE4.png)
+![image](https://github.com/jamjewel/Head_Pose_Estimation-DeepLearning/blob/2c470c6b1df68bd07a91a945f024b70c6800bb54/PAGE5.png)
